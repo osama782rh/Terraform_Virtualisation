@@ -113,5 +113,5 @@ terraform destroy
 ## 📦 Auteur
 
 Projet réalisé dans le cadre d’un TP de virtualisation & cloud (Ingénierie système).  
-Encadré par : [Nom du professeur, si applicable]  
+Encadré par : [KOUSSAWO]
 Réalisé par : **Osama Rahim** & **Yassine Merniss**
